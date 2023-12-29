@@ -1,0 +1,54 @@
+{
+    "Country Statistics": {
+        "Brazil": {
+            "Total Confirmed Cases": 23000000,
+            "Total Deaths": 600000,
+            "Total Recovered Cases": 22000000,
+            "Total Active Cases": 400000
+        },
+        "France": {
+            "Total Confirmed Cases": 7000000,
+            "Total Deaths": 120000,
+            "Total Recovered Cases": 6900000,
+            "Total Active Cases": -20000
+        },
+        "india": {
+            "Total Confirmed Cases": 1000,
+            "Total Deaths": 20,
+            "Total Recovered Cases": 800,
+            "Total Active Cases": 180
+        },
+        "pakistan": {
+            "Total Confirmed Cases": 2000,
+            "Total Deaths": 40,
+            "Total Recovered Cases": 1500,
+            "Total Active Cases": 460
+        },
+        "Russia": {
+            "Total Confirmed Cases": 8000000,
+            "Total Deaths": 150000,
+            "Total Recovered Cases": 7800000,
+            "Total Active Cases": 50000
+        },
+        "United States": {
+            "Total Confirmed Cases": 40000000,
+            "Total Deaths": 700000,
+            "Total Recovered Cases": 35000000,
+            "Total Active Cases": 4300000
+        }
+    },
+    "Top 5 Countries with Highest Confirmed Cases": {
+        "United States": 40000000,
+        "Brazil": 23000000,
+        "Russia": 8000000,
+        "France": 7000000,
+        "pakistan": 2000
+    },
+    "Top 5 Countries with Lowest Confirmed Cases": {
+        "india": 1000,
+        "pakistan": 2000,
+        "France": 7000000,
+        "Russia": 8000000,
+        "Brazil": 23000000
+    }
+}

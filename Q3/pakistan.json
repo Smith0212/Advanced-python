@@ -1,0 +1,17 @@
+{
+    "country": "pakistan",
+    "date": "2023-09-01",
+    "confirmed_cases": {
+      "total": 2000,
+      "new": 75
+    },
+    "deaths": {
+      "total": 40,
+      "new": 4
+    },
+    "recovered": {
+      "total": 1500,
+      "new": 60
+    }
+  }
+  

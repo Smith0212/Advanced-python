@@ -1,0 +1,5 @@
+Customer ID: BCD678
+Product ID: VWX54321
+Review date: 2023-08-04
+Review rating: 5
+Review text: "Absolutely love it! This product is fantastic. It's easy to use, and the results are outstanding. I can't imagine my life without it now!"

@@ -1,0 +1,5 @@
+Customer ID: GHI789
+Product ID: XYZ98765
+Review date: 2023-08-01
+Review rating: 3
+Review text: "The product quality is decent, but I had some issues with the delivery. It arrived a day later than expected, and the customer service response was slow."

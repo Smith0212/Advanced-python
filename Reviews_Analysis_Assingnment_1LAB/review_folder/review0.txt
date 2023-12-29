@@ -1,0 +1,5 @@
+Customer ID: ABC123
+Product ID: JKL98765
+Review date: 2023-07-15
+Review rating: 4
+Review text: "I really liked this product! It met my expectations and was delivered on time. The only reason I'm giving it 4 stars instead of 5 is that the packaging was slightly damaged."

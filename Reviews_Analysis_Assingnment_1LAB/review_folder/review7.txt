@@ -1,0 +1,5 @@
+Customer ID: VWX876
+Product ID: XYZ98765
+Review date: 2023-02-18
+Review rating: 3
+Review text: "It's an average product. Nothing too special about it. It does the job, but I've seen similar products with more features for the same price."

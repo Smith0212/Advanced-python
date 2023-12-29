@@ -1,0 +1,5 @@
+Customer ID: STU234
+Product ID: XYZ98765
+Review date: 2023-03-20
+Review rating: 5
+Review text: "I'm impressed with this product! It exceeded my expectations. The design is sleek, and it works like a charm. I would buy it again."

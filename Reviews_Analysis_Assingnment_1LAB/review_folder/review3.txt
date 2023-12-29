@@ -1,0 +1,5 @@
+Customer ID: JKL321
+Product ID: JKL98765
+Review date: 2023-07-25
+Review rating: 5
+Review text: "Excellent product! It's worth every penny. The customer support team was also very helpful in answering my queries. Thumbs up!"

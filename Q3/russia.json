@@ -1,0 +1,17 @@
+{
+    "country": "Russia",
+    "date": "2023-09-01",
+    "confirmed_cases": {
+      "total": 8000000,
+      "new": 12000
+    },
+    "deaths": {
+      "total": 150000,
+      "new": 300
+    },
+    "recovered": {
+      "total": 7800000,
+      "new": 15000
+    }
+  }
+  

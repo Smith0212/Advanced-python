@@ -1,0 +1,17 @@
+{
+    "country": "Brazil",
+    "date": "2023-09-01",
+    "confirmed_cases": {
+      "total": 23000000,
+      "new": 18000
+    },
+    "deaths": {
+      "total": 600000,
+      "new": 700
+    },
+    "recovered": {
+      "total": 22000000,
+      "new": 12000
+    }
+  }
+      

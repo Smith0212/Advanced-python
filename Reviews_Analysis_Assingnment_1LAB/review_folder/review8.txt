@@ -1,0 +1,5 @@
+Customer ID: YZA543
+Product ID: JKL98765
+Review date: 2023-01-05
+Review rating: 1
+Review text: "Do not recommend! This product broke after only a few days of use. Waste of money."

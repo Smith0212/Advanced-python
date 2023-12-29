@@ -1,0 +1,17 @@
+{
+    "country": "india",
+    "date": "2023-09-01",
+    "confirmed_cases": {
+      "total": 1000,
+      "new": 50
+    },
+    "deaths": {
+      "total": 20,
+      "new": 2
+    },
+    "recovered": {
+      "total": 800,
+      "new": 30
+    }
+  }
+  

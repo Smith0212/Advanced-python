@@ -1,0 +1,17 @@
+{
+    "country": "France",
+    "date": "2023-09-01",
+    "confirmed_cases": {
+      "total": 7000000,
+      "new": 10000
+    },
+    "deaths": {
+      "total": 120000,
+      "new": 200
+    },
+    "recovered": {
+      "total": 6900000,
+      "new": 8000
+    }
+  }
+  

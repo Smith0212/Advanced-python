@@ -1,0 +1,5 @@
+Customer ID: DEF456
+Product ID: VWX54321
+Review date: 2023-06-10
+Review rating: 5
+Review text: "Wow, this product is amazing! It's exactly what I needed. I've been using it for a week, and it works flawlessly. Highly recommended!"

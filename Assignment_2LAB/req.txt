@@ -1,0 +1,6 @@
+OS:Windows
+OS_VERSION:10.0.22631
+Python:3.11.1
+numpy==1.25.2
+pandas==2.0.3
+tensorflow==1.13.1

@@ -1,0 +1,5 @@
+Customer ID: ABC123
+Product ID: XYZ987
+Review date: 08/04/2023
+Review rating: 5
+Review text: This product is great!

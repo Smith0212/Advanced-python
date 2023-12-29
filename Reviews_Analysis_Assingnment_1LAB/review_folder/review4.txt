@@ -1,0 +1,5 @@
+Customer ID: MNO654
+Product ID: VWX54321
+Review date: 2023-05-12
+Review rating: 2
+Review text: "Unfortunately, this product didn't meet my expectations. It stopped working after a week of use. Disappointed with the quality."

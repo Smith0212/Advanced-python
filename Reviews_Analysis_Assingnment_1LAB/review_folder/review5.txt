@@ -1,0 +1,5 @@
+Customer ID: PQR987
+Product ID: JKL98765
+Review date: 2023-04-03
+Review rating: 4
+Review text: "Overall, a good purchase. The product is effective, but the user manual could be more detailed. It took some trial and error to set it up correctly."

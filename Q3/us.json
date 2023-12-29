@@ -1,0 +1,17 @@
+{
+    "country": "United States",
+    "date": "2023-09-01",
+    "confirmed_cases": {
+      "total": 40000000,
+      "new": 25000
+    },
+    "deaths": {
+      "total": 700000,
+      "new": 1000
+    },
+    "recovered": {
+      "total": 35000000,
+      "new": 15000
+    }
+  }
+  

@@ -1,0 +1,21 @@
+Name,Date,Description,Amount,Category
+John,2023-09-01,Groceries,75.50,Food
+Alice,2023-09-02,Utilities,120.00,Utilities
+Bob,2023-09-03,Dinner with friends,45.00,Entertainment
+John,2023-09-04,Gasoline,50.00,Transportation
+Alice,2023-09-05,Movie night,30.00,Entertainment
+Bob,2023-09-06,Shopping,100.00,Clothing
+John,2023-09-07,Utilities,110.00,Utilities
+Alice,2023-09-08,Groceries,85.00,Food
+Bob,2023-09-09,Transportation,60.00,Transportation
+John,2023-09-10,Groceries,70.00,Food
+Alice,2023-09-11,Utilities,115.00,Utilities
+Bob,2023-09-12,Entertainment,40.00,Entertainment
+John,2023-09-13,Gasoline,45.00,Transportation
+Alice,2023-09-14,Groceries,80.00,Food
+Bob,2023-09-15,Utilities,105.00,Utilities
+John,2023-09-16,Shopping,95.00,Clothing
+Alice,2023-09-17,Entertainment,35.00,Entertainment
+Bob,2023-09-18,Groceries,90.00,Food
+John,2023-09-19,Gasoline,55.00,Transportation
+Alice,2023-09-20,Utilities,100.00,UtilitiesAditya,2023-09-08,My Expenses for the day,6600.0,Chips
